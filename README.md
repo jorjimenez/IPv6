@@ -1,0 +1,1 @@
+Manual implementación IPv6 
